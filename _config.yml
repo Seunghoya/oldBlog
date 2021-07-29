@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Hoya's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "개발하는 호야"
+name                     : "개발 공부하는 호야"
 description              : "An amazing website."
 url                      : "https://Seunghoya.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
