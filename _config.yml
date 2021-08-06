@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hoya's Blog"
+title                    : "안군의 개발 끄적끄적"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "개발 공부하는 "
